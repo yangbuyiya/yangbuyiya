@@ -11,13 +11,14 @@
 - ⚡ Fun fact: ...
 
 ### :zap: Languages I use
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+</p>
 
-<img align="left" src="icons/javascript.svg" alt="JavaScript" height="40px" />
-<img align="left" src="icons/node-js.svg" alt="nodeJs" height="40px" />
-<img align="left" src="icons/java.svg" alt="Java" height="40px" />
-<img align="left" src="icons/vue.svg" alt="Java" height="40px" />
-
-<br/>
+[//]: # (<img align="left" src="icons/javascript.svg" alt="JavaScript" height="40px" />)
+[//]: # (<img align="left" src="icons/node-js.svg" alt="nodeJs" height="40px" />)
+[//]: # (<img align="left" src="icons/java.svg" alt="Java" height="40px" />)
+[//]: # (<img align="left" src="icons/vue.svg" alt="Java" height="40px" />)
 
 ### :art: My open source project
 - Easy classroom video-on-demand platform: https://gitee.com/yangbuyi/yi
