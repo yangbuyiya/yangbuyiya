@@ -1,5 +1,4 @@
 <a href="https://yby6.com" target="_blank">
-<!-- <img align="center" src="images/logo.png"/> -->
    <img align="center" src="https://bing.img.run/rand_uhd.php"/>
 </a>
 
