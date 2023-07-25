@@ -5,19 +5,25 @@
 ### :man_technologist: Hi 👋 there, I'm [Yangbuyiya!](https://yby6.com) <img height="30" src="images/work.gif" />
 
 - 🔭 I’m currently working on Full Stack engineer
+- 🆒 My blog：[https://yby6.com](https://yby6.com)
+- 🐏 Blog project examples：https://lzys522.cn
 - 😄 Pronouns: Yangbuyiya
 - ⚡ Fun fact: ...
 
 ### :zap: Languages I use
 
 <img align="left" src="icons/javascript.svg" alt="JavaScript" height="40px" />
-<img align="left" src="icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="icons/php.svg" alt="PHP" height="40px" />
 <img align="left" src="icons/node-js.svg" alt="nodeJs" height="40px" />
 <img align="left" src="icons/java.svg" alt="Java" height="40px" />
-<img align="left" src="icons/golang.svg" alt="Golang" height="40px" />
+<img align="left" src="icons/vue.svg" alt="Java" height="40px" />
 
 <br/>
+
+### :art: My open source project
+- Easy classroom video-on-demand platform: https://gitee.com/yangbuyi/yi
+- WeChat Pay scaffolding: https://gitee.com/yangbuyi/WeChatPayScaffolding
+- vue-full-calendar: https://gitee.com/yangbuyi/vue-full-calendar
+- More open source projects: https://gitee.com/yangbuyi
 
 ### :rocket: Some of the technologies I have worked with
 
