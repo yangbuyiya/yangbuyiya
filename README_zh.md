@@ -21,10 +21,10 @@
 [//]: # (<img align="left" src="icons/vue.svg" alt="Java" height="40px" />)
 
 ### :art: 我的开源项目
-- Easy classroom video-on-demand platform: https://gitee.com/yangbuyi/yi
-- WeChat Pay scaffolding: https://gitee.com/yangbuyi/WeChatPayScaffolding
+- 简易课堂视频点播平台: https://gitee.com/yangbuyi/yi
+- 微信支付脚手架: https://gitee.com/yangbuyi/WeChatPayScaffolding
 - vue-full-calendar: https://gitee.com/yangbuyi/vue-full-calendar
-- More open source projects: https://gitee.com/yangbuyi
+- 更多开源项目: https://gitee.com/yangbuyi
 
 ### :rocket: 我使用过的一些技术
 
