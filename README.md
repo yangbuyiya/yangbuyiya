@@ -1,6 +1,6 @@
 <a href="https://yby6.com" target="_blank">
 <!--    <img align="center" src="https://bing.img.run/rand_uhd.php"/> -->
-     <img  align="center" src="icon/Home.jpg">
+     <img  align="center" src="images/Home.jpg">
 </a>
 
 ### :man_technologist: Hi 👋 there, I'm [Yangbuyiya!](https://yby6.com) <img height="30" src="images/work.gif" />
