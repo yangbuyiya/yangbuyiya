@@ -3,7 +3,7 @@
      <img  align="center" src="images/Home.jpg">
 </a>
 
-<h1>2023 Happy New Year</h1>
+<h1>2024 Happy New Year</h1>
 <div align="center"><b>您是第<img src="https://profile-counter.glitch.me/yangbuyiya/count.svg"></img>个访问我的主页~</b></div>
 
 ### :man_technologist: Hi 👋 there, I'm [Yangbuyiya!](https://yby6.com) <img height="30" src="images/work.gif" />
