@@ -1,6 +1,6 @@
 <a href="https://yby6.com" target="_blank">
 <!--    <img align="center" src="https://bing.img.run/rand_uhd.php"/> -->
-     <img  align="center" src="images/Home.jpg">
+     <img  align="center" src="60dd4bf35650c7216d4e4aa0bd3faf7a4d764ef1.png">
 </a>
 
 <h1>2026 Happy New Year</h1>
